@@ -12,8 +12,6 @@
     <artifactId>spring-boot-jiuluo-web</artifactId>
 
     <dependencies>
-
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
